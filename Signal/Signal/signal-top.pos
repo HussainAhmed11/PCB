@@ -1,0 +1,14 @@
+### Module positions - created on Fri Jan 27 02:15:14 2023 ###
+### Printed by Pcbnew version (6.0.9)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val           Package                PosX       PosY       Rot  Side
+J1        691214110002  Rosta_2            160.7500   -93.2000    0.0000  top
+J2        691214110002  Rosta_2            182.5000   -77.3000  180.0000  top
+J3        691214110002  Rosta_2            149.8167   -93.2000    0.0000  top
+J4        691214110002  Rosta_2            171.5000   -77.3000  180.0000  top
+J5        691214110002  Rosta_2            160.6000   -77.3000  180.0000  top
+J6        691214110002  Rosta_2            182.6167   -93.2000    0.0000  top
+J7        691214110002  Rosta_2            149.7000   -77.3000  180.0000  top
+J8        691214110002  Rosta_2            171.6833   -93.2000    0.0000  top
+## End

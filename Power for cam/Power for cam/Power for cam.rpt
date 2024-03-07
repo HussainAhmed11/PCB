@@ -1,0 +1,327 @@
+## Footprint report - date Sun Jan 22 15:56:45 2023
+## Created by Pcbnew version (6.0.9)
+## Unit = mm, Angle = deg.
+
+$BeginDESCRIPTION
+
+$BOARD
+upper_left_corner 149.950000 59.950000
+lower_right_corner 210.050000 120.050000
+$EndBOARD
+
+$MODULE J1
+footprint xt60:AMASS_XT60-M
+attribut none
+position 181.600000 112.800000  orientation 0.00
+layer front
+$PAD "N"
+Shape Circle Layer both
+position  3.600000  0.000000  size  6.000000  6.000000  orientation 0.00
+drill  4.550000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "P"
+Shape Rect Layer both
+position -3.600000  0.000000  size  6.000000  6.000000  orientation 0.00
+drill  4.550000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J1
+
+$MODULE J2
+footprint Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal
+attribut none
+position 187.050000 74.100000  orientation 180.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  9.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  4.000000  2.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  6.000000  size  3.300000  2.000000  orientation 0.00
+drill  2.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position  4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position -4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J2
+
+$MODULE J3
+footprint Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal
+attribut none
+position 195.500000 76.100000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  9.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  4.000000  2.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  6.000000  size  3.300000  2.000000  orientation 0.00
+drill  2.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position  4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position -4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J3
+
+$MODULE J4
+footprint Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal
+attribut none
+position 165.400000 90.200000  orientation -90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  9.000000  size  1.600000  1.600000  orientation 360.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  4.000000  2.000000  orientation 360.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  6.000000  size  3.300000  2.000000  orientation 360.00
+drill  2.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position  4.500000  7.000000  size  2.000000  3.500000  orientation 360.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position -4.500000  7.000000  size  2.000000  3.500000  orientation 360.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J4
+
+$MODULE J5
+footprint Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal
+attribut none
+position 195.500000 90.100000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  9.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  4.000000  2.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  6.000000  size  3.300000  2.000000  orientation 0.00
+drill  2.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position  4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position -4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J5
+
+$MODULE J6
+footprint Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal
+attribut none
+position 165.400000 103.200000  orientation -90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  9.000000  size  1.600000  1.600000  orientation 360.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  4.000000  2.000000  orientation 360.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  6.000000  size  3.300000  2.000000  orientation 360.00
+drill  2.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position -4.500000  7.000000  size  2.000000  3.500000  orientation 360.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position  4.500000  7.000000  size  2.000000  3.500000  orientation 360.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J6
+
+$MODULE J7
+footprint Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal
+attribut none
+position 195.500000 103.100000  orientation 90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  9.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  4.000000  2.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  6.000000  size  3.300000  2.000000  orientation 0.00
+drill  2.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position  4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position -4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J7
+
+$MODULE J8
+footprint Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal
+attribut none
+position 165.300000 76.000000  orientation -90.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  9.000000  size  1.600000  1.600000  orientation 360.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  4.000000  2.000000  orientation 360.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  6.000000  size  3.300000  2.000000  orientation 360.00
+drill  2.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position -4.500000  7.000000  size  2.000000  3.500000  orientation 360.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position  4.500000  7.000000  size  2.000000  3.500000  orientation 360.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J8
+
+$MODULE J9
+footprint Connector_BarrelJack:BarrelJack_CUI_PJ-063AH_Horizontal
+attribut none
+position 174.000000 74.100000  orientation 180.00
+layer front
+$PAD ""
+Shape Circle Layer both
+position  0.000000  9.000000  size  1.600000  1.600000  orientation 0.00
+drill  1.600000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "1"
+Shape Rect Layer both
+position  0.000000  0.000000  size  4.000000  2.000000  orientation 0.00
+drill  3.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "2"
+Shape Oval Layer both
+position  0.000000  6.000000  size  3.300000  2.000000  orientation 0.00
+drill  2.300000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position  4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$PAD "MP"
+Shape Oval Layer both
+position -4.500000  7.000000  size  2.000000  3.500000  orientation 0.00
+drill  1.000000
+shape_offset  0.000000  0.000000
+$EndPAD
+$EndMODULE  J9
+
+$EndDESCRIPTION
